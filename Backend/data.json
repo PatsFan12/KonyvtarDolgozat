@@ -1,0 +1,146 @@
+[
+  {
+    "id": 5,
+    "author": "F. Scott Fitzgerald",
+    "title": "The Great Gatsby",
+    "year": 1925,
+    "genre": "Tragedy",
+    "pages": 180,
+    "available": true
+  },
+  {
+    "id": 6,
+    "author": "Herman Melville",
+    "title": "Moby-Dick",
+    "year": 1851,
+    "genre": "Adventure",
+    "pages": 635,
+    "available": false
+  },
+  {
+    "id": 7,
+    "author": "J.D. Salinger",
+    "title": "The Catcher in the Rye",
+    "year": 1951,
+    "genre": "Fiction",
+    "pages": 277,
+    "available": true
+  },
+  {
+    "id": 8,
+    "author": "Aldous Huxley",
+    "title": "Brave New World",
+    "year": 1932,
+    "genre": "Dystopian",
+    "pages": 311,
+    "available": true
+  },
+  {
+    "id": 9,
+    "author": "Margaret Atwood",
+    "title": "The Handmaid's Tale",
+    "year": 1985,
+    "genre": "Dystopian",
+    "pages": 311,
+    "available": false
+  },
+  {
+    "id": 10,
+    "author": "C.S. Lewis",
+    "title": "The Lion, the Witch and the Wardrobe",
+    "year": 1950,
+    "genre": "Fantasy",
+    "pages": 208,
+    "available": true
+  },
+  {
+    "id": 11,
+    "author": "Stephen King",
+    "title": "The Shining",
+    "year": 1977,
+    "genre": "Horror",
+    "pages": 447,
+    "available": true
+  },
+  {
+    "id": 12,
+    "author": "Leo Tolstoy",
+    "title": "War and Peace",
+    "year": 1869,
+    "genre": "Historical Fiction",
+    "pages": 1225,
+    "available": true
+  },
+  {
+    "id": 13,
+    "author": "Jane Austen",
+    "title": "Pride and Prejudice",
+    "year": 1813,
+    "genre": "Romance",
+    "pages": 279,
+    "available": true
+  },
+  {
+    "id": 14,
+    "author": "Mark Twain",
+    "title": "The Adventures of Huckleberry Finn",
+    "year": 1884,
+    "genre": "Adventure",
+    "pages": 366,
+    "available": true
+  },
+  {
+    "id": 15,
+    "author": "Kurt Vonnegut",
+    "title": "Slaughterhouse-Five",
+    "year": 1969,
+    "genre": "Science Fiction",
+    "pages": 275,
+    "available": true
+  },
+  {
+    "id": 16,
+    "author": "Ray Bradbury",
+    "title": "Fahrenheit 451",
+    "year": 1953,
+    "genre": "Dystopian",
+    "pages": 158,
+    "available": true
+  },
+  {
+    "id": 17,
+    "author": "Isaac Asimov",
+    "title": "Foundation",
+    "year": 1951,
+    "genre": "Science Fiction",
+    "pages": 255,
+    "available": false
+  },
+  {
+    "id": 18,
+    "author": "Douglas Adams",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "year": 1979,
+    "genre": "Science Fiction",
+    "pages": 224,
+    "available": true
+  },
+  {
+    "id": 19,
+    "author": "Orson Scott Card",
+    "title": "Ender's Game",
+    "year": 1985,
+    "genre": "Science Fiction",
+    "pages": 324,
+    "available": true
+  },
+  {
+    "id": 20,
+    "author": "J.R.R. Tolkien",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 1954,
+    "genre": "Fantasy",
+    "pages": 423,
+    "available": true
+  }
+]
